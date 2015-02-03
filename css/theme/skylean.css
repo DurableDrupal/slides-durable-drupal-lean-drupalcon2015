@@ -49,7 +49,7 @@ body {
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: -0.08em;
-  text-transform: uppercase;
+/*  text-transform: uppercase; */
   text-shadow: none;
   word-wrap: break-word; }
 
@@ -272,6 +272,13 @@ body {
 
 /*
  * Added by Victor Kane
+ */
+
+/*
+ * AFDBE5
+ * lighter: DCF2F7
+ * darker: 7FBBC9
+ * even darker: 5092a2
  */
  
  /*

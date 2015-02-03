@@ -269,3 +269,28 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #3b759e; }
+
+/*
+ * Added by Victor Kane
+ */
+.reveal .header {
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  font-size: 0.5em;
+}
+
+.reveal .footer {
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+  font-size: 0.5em;
+}
+
+.reveal .header h6 {
+  color: #cc0000;
+} 
+.reveal .footer h6 {
+  color: #cc0000;
+}
+

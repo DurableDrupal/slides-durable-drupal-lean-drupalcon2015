@@ -11,18 +11,27 @@ DrupalCon Latin America 2015 / Bogotá, Colombia
 
 ## Lean Process Factory 
 
-What we want to cover in this session
+Reusable tools and processes, tailored and in evolution, to finally defeat waterfall and guarantee delivered value
 
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
 * Assumptions, Hypotheses
-* Design Studio and Prototype as Initial MVP
+* Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
-< Development Workflow with Everything in Code
+* Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
 Note:
-Project Inception and Vision means that there has to be some starting point, based on input from the client and a first processing of that input (which may have come from a full RFP round trip or simply a telephone conversation) into something that understands the problem, product and market in terms of value.
+That's a mighty phrase up there. If we understood what it says and knew how to do it we could end this session right now and go have a beer. With your Lean Process Factory, how do you defeat rockstars, divas and waterfall and get the whole team working in parallel? How do you and your client together not stop until you are sure value has been delivered?
+
+
+pic showing not only waterfall but handoff as well.
+
+
+pic showing staggered handoff
+
+
+pic showing the team and the client working in parallel
 
 
 
@@ -30,7 +39,7 @@ Project Inception and Vision means that there has to be some starting point, bas
 * Project Inception and Vision
 * Team Kickoff
 * Assumptions, Hypotheses
-* Design Studio and Prototype as Initial MVP
+* Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
@@ -68,10 +77,12 @@ Then, when team members work on a job, it is placed in the "In Progress" or "Doi
 * **Project Inception and Vision**
 * Team Kickoff
 * Assumptions, Hypotheses
-* Design Studio and Prototype as Initial MVP
+* Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
+Note:
+Project Inception and Vision means that there has to be some starting point, based on input from the client and a first processing of that input (which may have come from a full RFP round trip or simply a telephone conversation) into something that understands the problem, product and market in terms of value.
 
 
 * **Project Inception and Vision**
@@ -84,7 +95,7 @@ text goes here
 * Project Inception and Vision
 * **Team Kickoff**
 * Assumptions, Hypotheses
-* Design Studio and Prototype as Initial MVP
+* Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
@@ -95,7 +106,7 @@ text goes here
 * Project Inception and Vision
 * Team Kickoff
 * **Assumptions, Hypotheses**
-* Design Studio and Prototype as Initial MVP
+* Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
@@ -106,7 +117,7 @@ text goes here
 * Project Inception and Vision
 * Team Kickoff
 * Assumptions, Hypotheses
-* **Design Studio and Prototype as Initial MVP**
+* **Design Studio and Prototype towards Initial MVP**
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
@@ -117,7 +128,7 @@ text goes here
 * Project Inception and Vision
 * Team Kickoff
 * Assumptions, Hypotheses
-* Design Studio and Prototype as Initial MVP
+* Design Studio and Prototype towards Initial MVP
 * **DevOps and Team Provisioning**
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
@@ -128,7 +139,7 @@ text goes here
 * Project Inception and Vision
 * Team Kickoff
 * Assumptions, Hypotheses
-* Design Studio and Prototype as Initial MVP
+* Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * **Development Workflow with Everything in Code**
 * DevOps, Server Provisioning and Deployment
@@ -139,6 +150,6 @@ text goes here
 * Project Inception and Vision
 * Team Kickoff
 * Assumptions, Hypotheses
-* Design Studio and Prototype as Initial MVP
+* Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * **Development Workflow with Everything in Code**

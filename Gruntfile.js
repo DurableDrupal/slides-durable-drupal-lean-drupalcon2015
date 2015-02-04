@@ -132,6 +132,9 @@ module.exports = function(grunt) {
             html: {
                 files: [ 'index.html']
             }
+            md: {
+            	files: [ 'slides.md']
+            }
 		}
 
 	});

@@ -21,6 +21,8 @@ What we want to cover in this session
 * DevOps and Team Provisioning
 < Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
+Note:
+Project Inception and Vision means that there has to be some starting point, based on input from the client and a first processing of that input (which may have come from a full RFP round trip or simply a telephone conversation) into something that understands the problem, product and market in terms of value.
 
 
 

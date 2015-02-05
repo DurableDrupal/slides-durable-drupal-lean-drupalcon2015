@@ -3,7 +3,7 @@
 ### Setting up a Reusable and Durable Drupal 
 ### Lean Process Factory
 <br><br>
-#### Victor Kane / AWebFactory.com
+#### Victor Kane (AWebFactory.com)
 <br><br>
 DrupalCon Latin America 2015 / Bogotá, Colombia
 

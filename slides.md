@@ -184,4 +184,5 @@ text goes here
 * Assumptions, Hypotheses
 * Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
-* **Development Workflow with Everything in Code**
+* Development Workflow with Everything in Code
+* **DevOps, Server Provisioning and Deployment**

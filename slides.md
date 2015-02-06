@@ -1,6 +1,6 @@
-## Session
+# Session
 
-### Setting up a Reusable and Durable Drupal 
+### Setting up a Reusable and DurableDrupal 
 ### Lean Process Factory
 <br><br>
 #### Victor Kane (AWebFactory.com)
@@ -25,7 +25,7 @@ $ whoami
 
 
 
-## Lean Process Factory 
+## DurableDrupal Lean Process Factory 
 
 Reusable tools and processes, tailored and in evolution, to finally defeat waterfall and guarantee delivered value
 
@@ -41,7 +41,7 @@ Note:
 That's a mighty phrase up there. If we understood it and knew how to get it done we could end this session right now and go have a beer. With your Lean Process Factory, how do you defeat rockstars, divas and waterfall and get the whole team working in parallel? How do you and your client together not stop until you are sure value has been delivered?
 
 
-### Waterfall -> Agile
+### Process Overview: Waterfall -> Agile
 
 ![Waterfull and Agile](images/sy-waterfall-agile.png)
 
@@ -50,7 +50,7 @@ Note:
 The article explains how Waterfall and even Agile leads to the creation of isolated discipline silos where deliverables are implemented and then handed off to others without there being anywhere near enough cross-collaboration or feedback. Agile is an improvement over Waterfall since the abyss separating requirements gathering from testing is shorter and since the mini-cycles lend themselves to more testing and feedback taking place.
 
 
-### Better (2007)
+### Better Process (2007)
 
 ![Staggered Sprints](images/sy-miller-staggered-sprints.jpg)
 
@@ -59,7 +59,7 @@ Note:
 In the article Sy and Miller go on to describe in detail their idea of productive integration of Agile and user-centered design using a technique called Cycle 0 (sometimes called Sprint 0 or Staggered Sprints), in which design activity takes place one sprint ahead of development.  Work is designed and validated during the “design sprint” and then passed off into the development stream to be implemented during the development sprint. Even though Sy and Miller always advocated strong collaboration between designers and developers, many teams have missed this critical point and have instead created workflows in which designers and developers still communicate by handoff, creating a kind of mini-waterfall process. But even when cross collaboration is encouraged, with staggered sprints it becomes very easy for the entire team to never be working on the same thing at the same time. You never realize the benefits of cross-functional collaboration because the different disciplines are most often focused on different things.
 
 
-### Better still: Design + Dev
+### Still better process: Design + Dev
 
 ![Gothelf Lean + Scrum](images/gothelf-lean-plus-scrum.jpg)
 
@@ -70,15 +70,20 @@ Note:
 Get description from page 97 (bookmarked)
 
 
-### Best: Design + Dev + DevOps
+### Best Process: Design + Dev + DevOps
 
 What we are adding here today to the mix is that just as it is critical for cross-collaboration between design and development, so it is just as critical for there to be cross-collaboration between design, development and DevOps, both in provisioning so that the team can really work in parallel, as well as in building, feedback conversations, testing and deployment.
 
 
-### These are the benefits from Lean DevOps
+### Waste Avoided by DurableDrupal Lean
 
-* Unfinished work left rotting in isolated silos with no feedback
-* 
+1. Unfinished work left rotting in isolated silos
+1. Feature creep without validating for impact or value
+1. Isolated silos keep on re-inventing the wheel
+1. Handoffs chronically disrupts workflow
+1. Delays cuz isolated silos and teams missing skills
+1. Task switching cuz work overload and broken workflow  
+1. Mucho defect cuz chaotic focus and blocked knowledge sharing
 
 Background article: [How to Manage the "7 Wastes" of Agile Software Development](https://www.scrumalliance.org/community/articles/2013/september/how-to-manage-the-7-wastes%E2%80%9D-of-agile-software-deve#sthash.AQrw03H3.dpuf) 
 

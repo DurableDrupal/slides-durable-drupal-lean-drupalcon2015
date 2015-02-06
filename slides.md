@@ -134,17 +134,17 @@ Note:
 Project Inception and Vision means that there has to be some starting point, based on input from the client and a first processing of that input (which may have come from a full RFP round trip or simply a telephone conversation) into something that begins to understand the problem, product and market in terms of value and performs all preparation necessary for the Team Kickoff for the project.
 
 
-### Project Inception and Vision
+### Online Literary Workshop<br>Inception and Vision
 
 * Gather all inputs: Client documentation, conversations, Legacy site and business context
 * Create initial Project Vision text for starting point
   * For each detected pain point
     * Who is experiencing it?
     * What solutions would ease their pain?
-  * List architecture alternatives: Frameworks, re-usable Drupal distros and other past solutions
-* What team are we going assemble for kickoff?
-* What provisioning might be best for development and testing?
-* Possibility of initial basic prototype as starting point for kickoff    
+  * List architecture alternatives: Frameworks, re-usable Drupal distros and other proven solutions
+* What team are we going to assemble for kickoff?
+* Best way to provision team development and testing?
+* Initial basic prototype as starting point for kickoff?
 
 
 ### Inputs for Online Literary Workshop Project
@@ -172,7 +172,7 @@ Project Inception and Vision means that there has to be some starting point, bas
 * Victor (Project Coach)
 * Sherrie (Graphic design)
 
-And none of them are "10x" rockstars: it's just a team of knowledge workers who are going to be 10x productive as a team because they will enjoy permanent communication and an optimum task focus.
+And none of them may be "10x" rockstars: it's just a team of knowledge workers who are going to be 10x productive as a team that works through communication and focus. And even if the so-called 10x developer ever did exist it would be because she learned how to do that in a team. 10x is a team thing or it is nothing.
 
 
 ### Resources for Team Provisioning

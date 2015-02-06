@@ -41,7 +41,7 @@ Note:
 That's a mighty phrase up there. If we understood it and knew how to get it done we could end this session right now and go have a beer. With your Lean Process Factory, how do you defeat rockstars, divas and waterfall and get the whole team working in parallel? How do you and your client together not stop until you are sure value has been delivered?
 
 
-## Waterfall -> Agile
+### Waterfall -> Agile
 
 ![Waterfull and Agile](images/sy-waterfall-agile.png)
 
@@ -50,7 +50,7 @@ Note:
 The article explains how Waterfall and even Agile leads to the creation of isolated discipline silos where deliverables are implemented and then handed off to others without there being anywhere near enough cross-collaboration or feedback. Agile is an improvement over Waterfall since the abyss separating requirements gathering from testing is shorter and since the mini-cycles lend themselves to more testing and feedback taking place.
 
 
-## Better (2007)
+### Better (2007)
 
 ![Staggered Sprints](images/sy-miller-staggered-sprints.jpg)
 
@@ -59,7 +59,7 @@ Note:
 In the article Sy and Miller go on to describe in detail their idea of productive integration of Agile and user-centered design using a technique called Cycle 0 (sometimes called Sprint 0 or Staggered Sprints), in which design activity takes place one sprint ahead of development.  Work is designed and validated during the “design sprint” and then passed off into the development stream to be implemented during the development sprint. Even though Sy and Miller always advocated strong collaboration between designers and developers, many teams have missed this critical point and have instead created workflows in which designers and developers still communicate by handoff, creating a kind of mini-waterfall process. But even when cross collaboration is encouraged, with staggered sprints it becomes very easy for the entire team to never be working on the same thing at the same time. You never realize the benefits of cross-functional collaboration because the different disciplines are most often focused on different things.
 
 
-## Better still: Design + Dev
+### Better still: Design + Dev
 
 ![Gothelf Lean + Scrum](images/gothelf-lean-plus-scrum.jpg)
 
@@ -70,11 +70,21 @@ Note:
 Get description from page 97 (bookmarked)
 
 
-## Best: Design + Dev + DevOps
+### Best: Design + Dev + DevOps
 
 What we are adding here today to the mix is that just as it is critical for cross-collaboration between design and development, so it is just as critical for there to be cross-collaboration between design, development and DevOps, both in provisioning so that the team can really work in parallel, as well as in building, feedback conversations, testing and deployment.
 
 
+### These are the benefits from Lean DevOps
+
+* Unfinished work left rotting in isolated silos with no feedback
+* 
+
+Background article: [How to Manage the "7 Wastes" of Agile Software Development](https://www.scrumalliance.org/community/articles/2013/september/how-to-manage-the-7-wastes%E2%80%9D-of-agile-software-deve#sthash.AQrw03H3.dpuf) 
+
+
+
+## Kanban
 
 * **Kanban (not Scrum)**
 * Project Inception and Vision
@@ -86,7 +96,7 @@ What we are adding here today to the mix is that just as it is critical for cros
 * DevOps, Server Provisioning and Deployment
 
 
-* **Kanban (not Scrum)**
+### Kanban (not Scrum)
 
 ![WIP (Work in Progress) is what makes Kanban unique](images/c1_01.jpg)
 
@@ -96,7 +106,7 @@ Note:
 The main thing to understand about Kanban is that it is not based on the pre-estimated "sprints" designed to deliver a complete mini-release one finds when using Scrum. Rather it is a continuous flow process. Core jobs of work seeking a particular outcome are implemented one at a time in cross-collaboration, and their associated cards pass through various states (represented by columns) in the process. At the start all issues are placed in the New column (state). Then these are prioritized and a number of them are placed in the limited backlog "To Do" column.
 
 
-* **Kanban (not Scrum)**
+### Kanban (not Scrum)
 
 ![Kanban Board for initial prototype](images/c1_02.jpg)
 
@@ -104,6 +114,8 @@ Note:
 Then, when team members work on a job, it is placed in the "In Progress" or "Doing" column. This column is also limited in the number of issues it can contain. The reason for these constraints is key to why Kanban is different: it champions focus and prohibits people working on too many things at the same time. This is called a Work in Progress (WIP) limit, and it replaces the constraint of the sprint cycle length and time frame restrictions found in Scrum. In this way, Kanban frees us from waterfall-like mini-release "estimates". So while there are no sprints, only a continuous flow of jobs of work being delivered for outcome value testing, the WIP limit, seen in parenthesis in the To Do and In Progress column titles, seeks to optimize productivity without overload. The actual number is calculated by taking into account team size and velocity, and is adjusted for maximum productivity without overloading the team as the project matures. We limit the To Do column and the Doing column to 4 (number of separate disciplines being worked on with semi-paired programming).
 
 
+
+## Project Inception and Vision
 
 * Kanban (not Scrum)
 * **Project Inception and Vision**
@@ -117,11 +129,13 @@ Note:
 Project Inception and Vision means that there has to be some starting point, based on input from the client and a first processing of that input (which may have come from a full RFP round trip or simply a telephone conversation) into something that understands the problem, product and market in terms of value.
 
 
-* **Project Inception and Vision**
+### Project Inception and Vision
 
 text goes here
 
 
+
+## Team Kickoff
 
 * Kanban (not Scrum)
 * Project Inception and Vision
@@ -134,6 +148,8 @@ text goes here
 
 
 
+## Assumptions, Hypotheses
+
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
@@ -144,6 +160,8 @@ text goes here
 * DevOps, Server Provisioning and Deployment
 
 
+
+## Design Studio and Prototype towards Initial MVP
 
 * Kanban (not Scrum)
 * Project Inception and Vision
@@ -156,6 +174,8 @@ text goes here
 
 
 
+## DevOps and Team Provisioning
+
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
@@ -167,6 +187,8 @@ text goes here
 
 
 
+## Development Workflow with Everything in Code
+
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
@@ -177,6 +199,8 @@ text goes here
 * DevOps, Server Provisioning and Deployment
 
 
+
+## DevOps, Server Provisioning and Deployment
 
 * Kanban (not Scrum)
 * Project Inception and Vision

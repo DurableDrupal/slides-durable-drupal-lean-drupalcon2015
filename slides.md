@@ -131,12 +131,60 @@ Then, when team members work on a job, it is placed in the "In Progress" or "Doi
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
 Note:
-Project Inception and Vision means that there has to be some starting point, based on input from the client and a first processing of that input (which may have come from a full RFP round trip or simply a telephone conversation) into something that understands the problem, product and market in terms of value.
+Project Inception and Vision means that there has to be some starting point, based on input from the client and a first processing of that input (which may have come from a full RFP round trip or simply a telephone conversation) into something that begins to understand the problem, product and market in terms of value and performs all preparation necessary for the Team Kickoff for the project.
 
 
 ### Project Inception and Vision
 
-text goes here
+* Gather all inputs: Client documentation, conversations, Legacy site and business context
+* Create initial Project Vision text for starting point
+  * For each detected pain point
+    * Who is experiencing it?
+    * What solutions would ease their pain?
+  * List architecture alternatives: Frameworks, re-usable Drupal distros and other past solutions
+* What team are we going assemble for kickoff?
+* What provisioning might be best for development and testing?
+* Possibility of initial basic prototype as starting point for kickoff    
+
+
+### Inputs for Online Literary Workshop Project
+
+* Notes from phone conversation with client
+* Review of existing solutions (e-mail list)
+* Conversations with existing workshop members
+  * Writers
+  * Publishers
+* Review of solution architecture alternatives
+
+
+### Initial Online Literary Workshop Vision
+
+<< pdf attachment >>
+
+
+### Team Selection
+
+* Anna (Product Owner)
+* Jake (DevOps)
+* Mark (UX)
+* Jeff (Back end)
+* Lisa (Front end)
+* Victor (Project Coach)
+* Sherrie (Graphic design)
+
+And none of them are "10x" rockstars: it's just a team of knowledge workers who are going to be 10x productive as a team because they will enjoy permanent communication and an optimum task focus.
+
+
+### Resources for Team Provisioning
+
+* Ansible playbook for setting up the DurableDrupalDistro on local workstation using Vagrant and VirtualBox
+  * On GitHub: [ansible-vagrant-durable-drupal-distro]()
+  * On GitHub: [DurableDrupalDistro](https://github.com/DurableDrupal/durable-drupal-distro)
+
+
+### Prototype for Kickoff Starting Point?
+
+In the absence of any legacy site, we will show how the email list is currently used for regular online literary workshop operations.
 
 
 

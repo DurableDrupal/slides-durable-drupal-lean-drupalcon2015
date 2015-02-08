@@ -196,7 +196,7 @@ The Product Owner ideally comes from the client's organization, is responsable f
 ### Resources for Team Provisioning
 
 * Ansible playbook for setting up DurableDrupalDistro locally with Vagrant and VirtualBox
-  * On GitHub: [ansible-vagrant-durable-drupal-distro]()
+  * On GitHub: [ansible-vagrant-durable-drupal-distro](https://github.com/DurableDrupal/ansible-vagrant-durable-drupal-distro)
   * On GitHub: [DurableDrupalDistro](https://github.com/DurableDrupal/durable-drupal-distro)
 * [Create a Drupal project on Pantheon and pull it down to your laptop on Kalabox](http://awebfactory.com/node/521)
   * [Pantheon overview](https://pantheon.io/how-it-works)

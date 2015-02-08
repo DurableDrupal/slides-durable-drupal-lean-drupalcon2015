@@ -32,7 +32,7 @@ Reusable tools and processes, tailored and in evolution, to finally defeat water
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
-* Assumptions, Hypotheses
+* Problems, Assumptions, Hypotheses
 * Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
@@ -94,7 +94,7 @@ Background article: [How to Manage the "7 Wastes" of Agile Software Development]
 * **Kanban (not Scrum)**
 * Project Inception and Vision
 * Team Kickoff
-* Assumptions, Hypotheses
+* Problems, Assumptions, Hypotheses
 * Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
@@ -125,7 +125,7 @@ Then, when team members work on a job, it is placed in the "In Progress" or "Doi
 * Kanban (not Scrum)
 * **Project Inception and Vision**
 * Team Kickoff
-* Assumptions, Hypotheses
+* Problems, Assumptions, Hypotheses
 * Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
@@ -222,7 +222,7 @@ In the absence of any legacy site, we will show how the email list is currently 
 * Kanban (not Scrum)
 * Project Inception and Vision
 * **Team Kickoff**
-* Assumptions, Hypotheses
+* Problems, Assumptions, Hypotheses
 * Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
@@ -230,12 +230,12 @@ In the absence of any legacy site, we will show how the email list is currently 
 
 
 
-## Assumptions, Hypotheses
+## Problems, Assumptions, Hypotheses
 
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
-* **Assumptions, Hypotheses**
+* **Problems, Assumptions, Hypotheses**
 * Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
@@ -248,7 +248,7 @@ In the absence of any legacy site, we will show how the email list is currently 
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
-* Assumptions, Hypotheses
+* Problems, Assumptions, Hypotheses
 * **Design Studio and Prototype towards Initial MVP**
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code
@@ -261,7 +261,7 @@ In the absence of any legacy site, we will show how the email list is currently 
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
-* Assumptions, Hypotheses
+* Problems, Assumptions, Hypotheses
 * Design Studio and Prototype towards Initial MVP
 * **DevOps and Team Provisioning**
 * Development Workflow with Everything in Code
@@ -274,7 +274,7 @@ In the absence of any legacy site, we will show how the email list is currently 
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
-* Assumptions, Hypotheses
+* Problems, Assumptions, Hypotheses
 * Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * **Development Workflow with Everything in Code**
@@ -287,7 +287,7 @@ In the absence of any legacy site, we will show how the email list is currently 
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
-* Assumptions, Hypotheses
+* Problems, Assumptions, Hypotheses
 * Design Studio and Prototype towards Initial MVP
 * DevOps and Team Provisioning
 * Development Workflow with Everything in Code

@@ -131,35 +131,48 @@ Then, when team members work on a job, it is placed in the "In Progress" or "Doi
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
 Note:
-Project Inception and Vision means that there has to be some starting point, based on input from the client and a first processing of that input (which may have come from a full RFP round trip or simply a telephone conversation) into something that begins to understand the problem, product and market in terms of value and performs all preparation necessary for the Team Kickoff for the project.
+Project Inception and Vision means that there has to be some starting point, based on inputs provided by the product owner (a client domain expert, marketing person, major stakeholder rep, etc.). These inputs  must be gathered as part of the more general preparation for the Project Team Kickoff in the form of a Vision text. 
 
 
 ### Online Literary Workshop<br>Inception and Vision
 
 * Gather all inputs: Client documentation, conversations, Legacy site and business context
-* Create initial Project Vision text for starting point
-  * For each detected pain point
-    * Who is experiencing it?
-    * What solutions would ease their pain?
+* Create initial Project Vision text for team starting point
+  * Detected pain points: who are experiencing them and what would they consider to be a solution?
   * List architecture alternatives: Frameworks, re-usable Drupal distros and other proven solutions
+  * List initially detected constraints
 * What team are we going to assemble for kickoff?
 * Best way to provision team development and testing?
 * Initial basic prototype as starting point for kickoff?
 
+Note:
+Everything needed for Kickoff, put together through cross-collaboration by the initial core team.
 
-### Inputs for Online Literary Workshop Project
 
-* Notes from phone conversation with client
-* Review of existing solutions (e-mail list)
-* Conversations with existing workshop members
-  * Writers
-  * Publishers
-* Review of solution architecture alternatives
+### Inputs for Online Literary Workshop Vision
+
+* Product Owner must contribute to first cut of Market, Problem, Product definitions
+  * Notes from phone conversations with stakeholders and users
+  * Review of existing solutions (e-mail list)
+  * Conversations with existing workshop members
+    * Writers
+    * Publishers
+* Initial Team Core must gather:
+  * Review of solution architecture alternatives
+  * Any detectable constraints
+
+Note:
+The actual text is the responsibility of the Product Owner but will be done in cross-collaboration by the initial core team.
 
 
 ### Initial Online Literary Workshop Vision
 
-<< pdf attachment >>
+[Vision Template](files/VisionTemplate.pdf)
+
+[Online Literary Workshop Vision](files/OnlineLiteraryWorkshopVision.pdf)
+
+Note:
+The Vision will represent a first processing of product inputs and provide a starting point at the Kickoff for beginning to understand and validate problem, product and market in terms of value.
 
 
 ### Team Selection
@@ -172,14 +185,30 @@ Project Inception and Vision means that there has to be some starting point, bas
 * Victor (Project Coach)
 * Sherrie (Graphic design)
 
-And none of them may be "10x" rockstars: it's just a team of knowledge workers who are going to be 10x productive as a team that works through communication and focus. And even if the so-called 10x developer ever did exist it would be because she learned how to do that in a team. 10x is a team thing or it is nothing.
+<p class="text-left">
+Team selected on the basis of our Vision. Now, rather than "10x" rockstars, we have a 10x team who get to be productive thanks to cross-collaboration, communication, focus and teamwork. If the so-called 10x developer does emerge it is be by dint of working as part of a great team. 10x is a social team thing or it is nothing.
+</p>
+
+Note:
+The Product Owner ideally comes from the client's organization, is responsable for creating and defending the Project Vision. Most important member of the team. If no-one is available from the client's organization... then don't do the project! Perspectives for failure are high. Seriously. If you absolutely want to go ahead anyway, you must use a courageous and outspoken proxy.
 
 
 ### Resources for Team Provisioning
 
-* Ansible playbook for setting up the DurableDrupalDistro on local workstation using Vagrant and VirtualBox
+* Ansible playbook for setting up DurableDrupalDistro locally with Vagrant and VirtualBox
   * On GitHub: [ansible-vagrant-durable-drupal-distro]()
   * On GitHub: [DurableDrupalDistro](https://github.com/DurableDrupal/durable-drupal-distro)
+* [Create a Drupal project on Pantheon and pull it down to your laptop on Kalabox](http://awebfactory.com/node/521)
+  * [Pantheon overview](https://pantheon.io/how-it-works)
+  * [Pantheon workflow overview](https://pantheon.io/docs/articles/sites/code/using-the-pantheon-workflow/)
+* [Setting up a local environment for a Drupal project on Platform.sh](https://docs.platform.sh/use-platform/getting-started-for-the-impatient/#how-to-set-up-your-local-drupal-development), click here for [more details](https://docs.platform.sh/use-platform/set-up-local-development/)
+  * [Platform.sh overview](https://docs.platform.sh/use-platform/getting-started-for-the-impatient/)
+  * [Platform.sh development workflow video](https://platform.sh/videos/2014/07/31/development-workflow/) additionally, [Environment workflow](https://docs.platform.sh/overview/platform-environments/)
+  
+<!--
+* [Best = Free: Drupal Team Project Management tool based on latest Eclipse release](http://awebfactory.com/node/510)
+* [Best = Free: Drupal IDE based on latest Eclipse release (Kepler)](http://awebfactory.com/node/509)
+-->
 
 
 ### Prototype for Kickoff Starting Point?

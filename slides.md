@@ -32,11 +32,9 @@ Reusable tools and processes, tailored and in evolution, to finally defeat water
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
-* Problems, Assumptions, Hypotheses
-* Design Studio and Prototype towards Initial MVP
-* DevOps and Team Provisioning
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
+* User Validation
 Note:
 That's a mighty phrase up there. If we understood it and knew how to get it done we could end this session right now and go have a beer. With your Lean Process Factory, how do you defeat rockstars, divas and waterfall and get the whole team working in parallel? How do you and your client together not stop until you are sure value has been delivered?
 
@@ -67,7 +65,10 @@ In the article Sy and Miller go on to describe in detail their idea of productiv
 
 Also see [Beyond Staggered Sprints: How TheLadders.com Integrated UX into Agile](http://johnnyholland.org/2010/10/beyond-staggered-sprints-how-theladders-com-integrated-ux-into-agile/)
 Note:
-Get description from page 97 (bookmarked)
+Quote from Gothelf, Jeff (2013-02-22). Lean UX: Applying Lean Principles to Improve User Experience (p. 97). O'Reilly Media. Kindle Edition. 
+Many teams have misinterpreted this model. Sy and Miller always advocated strong collaboration between designers and developers during both the design and development sprints. Many teams have missed this critical point and have instead created workflows in which designers and developers communicate by handoff, creating a kind of mini-waterfall process.
+
+Themes help the prioritization of stories necessary to give designers time to be creative.
 
 
 ### Best Process: Design + Dev + DevOps
@@ -94,11 +95,9 @@ Background article: [How to Manage the "7 Wastes" of Agile Software Development]
 * **Kanban (not Scrum)**
 * Project Inception and Vision
 * Team Kickoff
-* Problems, Assumptions, Hypotheses
-* Design Studio and Prototype towards Initial MVP
-* DevOps and Team Provisioning
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
+* User Validation
 
 
 ### Kanban (not Scrum)
@@ -125,11 +124,9 @@ Then, when team members work on a job, it is placed in the "In Progress" or "Doi
 * Kanban (not Scrum)
 * **Project Inception and Vision**
 * Team Kickoff
-* Problems, Assumptions, Hypotheses
-* Design Studio and Prototype towards Initial MVP
-* DevOps and Team Provisioning
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
+* User Validation
 Note:
 Project Inception and Vision means that there has to be some starting point, based on inputs provided by the product owner (a client domain expert, marketing person, major stakeholder rep, etc.). These inputs  must be gathered as part of the more general preparation for the Project Team Kickoff in the form of a Vision text. 
 
@@ -146,7 +143,7 @@ Project Inception and Vision means that there has to be some starting point, bas
 * Initial basic prototype as starting point for kickoff?
 
 Note:
-Everything needed for Kickoff, put together through cross-collaboration by the initial core team.
+Everything needed for initial Project Kickoff, put together through cross-collaboration by the initial core team.
 
 
 ### Inputs for Online Literary Workshop Vision
@@ -222,50 +219,45 @@ In the absence of any legacy site, we will show how the email list is currently 
 * Kanban (not Scrum)
 * Project Inception and Vision
 * **Team Kickoff**
+* Development Workflow with Everything in Code
+* DevOps, Server Provisioning and Deployment
+* User Validation
+
+
+### Team Kickoff
+
+![Gothelf Lean + Scrum](images/gothelf-lean-plus-scrum.jpg)
+
+* Every sprint has a kickoff, not just the first
+* Everyone participates
+* Domain experts are invited where needed
+* May last a few hours or a week, whatever it takes
+
+
+### What goes on at the Kickoff
+
+Brainstorming and validation exercises which will enable the team to define a minimum viable product (MVP) as a set of user stories constituting the current backlog.
+
 * Problems, Assumptions, Hypotheses
 * Design Studio and Prototype towards Initial MVP
-* DevOps and Team Provisioning
-* Development Workflow with Everything in Code
-* DevOps, Server Provisioning and Deployment
+* MVP is the minimum release of the product capable of testing the hypotheses
+* Once the MVP is defined, a subsequent Iteration Planning Meeting defines user story backlog
+
+
+### Problems, Assumptions, Hypotheses
 
 
 
-## Problems, Assumptions, Hypotheses
 
-* Kanban (not Scrum)
-* Project Inception and Vision
-* Team Kickoff
-* **Problems, Assumptions, Hypotheses**
-* Design Studio and Prototype towards Initial MVP
-* DevOps and Team Provisioning
-* Development Workflow with Everything in Code
-* DevOps, Server Provisioning and Deployment
+### Design Studio and Prototype towards Initial MVP
 
 
-
-## Design Studio and Prototype towards Initial MVP
-
-* Kanban (not Scrum)
-* Project Inception and Vision
-* Team Kickoff
-* Problems, Assumptions, Hypotheses
-* **Design Studio and Prototype towards Initial MVP**
-* DevOps and Team Provisioning
-* Development Workflow with Everything in Code
-* DevOps, Server Provisioning and Deployment
+### Iteration Planning Meeting
 
 
+### The goal of cross-collaboration
 
-## DevOps and Team Provisioning
-
-* Kanban (not Scrum)
-* Project Inception and Vision
-* Team Kickoff
-* Problems, Assumptions, Hypotheses
-* Design Studio and Prototype towards Initial MVP
-* **DevOps and Team Provisioning**
-* Development Workflow with Everything in Code
-* DevOps, Server Provisioning and Deployment
+By the time the user stories are written for the current backlog, the whole team has been "kicked off" on each of them. A [short excerpt](files/lavidaenlean.txt) from Gothelf shows what collective development is like as the team works to complete the backlog. 
 
 
 
@@ -274,11 +266,9 @@ In the absence of any legacy site, we will show how the email list is currently 
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
-* Problems, Assumptions, Hypotheses
-* Design Studio and Prototype towards Initial MVP
-* DevOps and Team Provisioning
 * **Development Workflow with Everything in Code**
 * DevOps, Server Provisioning and Deployment
+* User Validation
 
 
 
@@ -287,8 +277,17 @@ In the absence of any legacy site, we will show how the email list is currently 
 * Kanban (not Scrum)
 * Project Inception and Vision
 * Team Kickoff
-* Problems, Assumptions, Hypotheses
-* Design Studio and Prototype towards Initial MVP
-* DevOps and Team Provisioning
 * Development Workflow with Everything in Code
 * **DevOps, Server Provisioning and Deployment**
+* User Validation
+
+
+
+## User Validation
+
+* Kanban (not Scrum)
+* Project Inception and Vision
+* Team Kickoff
+* Development Workflow with Everything in Code
+* DevOps, Server Provisioning and Deployment
+* **User Validation**

@@ -239,25 +239,120 @@ In the absence of any legacy site, we will show how the email list is currently 
 Brainstorming and validation exercises which will enable the team to define a minimum viable product (MVP) as a set of user stories constituting the current backlog.
 
 * Problems, Assumptions, Hypotheses
-* Design Studio and Prototype towards Initial MVP
+* Collaborative Design and Prototype towards Initial MVP
 * MVP is the minimum release of the product capable of testing the hypotheses
 * Once the MVP is defined, a subsequent Iteration Planning Meeting defines user story backlog
 
 
 ### Problems, Assumptions, Hypotheses
 
+* Clarify problem statements
+* List assumptions gleaned from the problem statements
+* Prioritize assumptions in order to create hypotheses to test those assumptions
+* Personas
+* Feature brainstorming
+Note:
+"Our goal is not to create a deliverable, it’s to change something in the world — to create an outcome. We start with assumptions instead of requirements. We create and test hypotheses. We measure to see whether we’ve achieved our desired outcomes."
+
+The MVP will be the minimum running product capable of testing the hypotheses. Later iterations will break the hypotheses down into sub-hypotheses as the final testable MVP emerges. 
 
 
+### Problem Statement Template
 
-### Design Studio and Prototype towards Initial MVP
+[Our service/ product] was designed to achieve [these goals]. We have observed that the product/ service isn’t meeting [these goals], which is causing [this adverse effect] to our business. How might we improve [service/ product] so that our customers are more successful based on [these measurable criteria]?
+
+
+### Problem Statement Example
+
+Our service offers a conduit between job seekers and employers trying to hire them. Through our service, employers can reach out to job seekers in our ecosystem with employment opportunities. We have observed that one critical factor affecting customer satisfaction is how frequently job seekers respond to employer messages. Currently, job seekers are replying to these communications at a very low rate. How might we improve the efficacy of our communication products, thus making employers more successful in their jobs and job seekers more satisfied with our service?
+
+
+### Hypothesis template
+
+We believe [this statement is true]. We will know we’re [right/ wrong] when we see the following feedback from the market: [qualitative feedback] and/ or [quantitative feedback] and/ or [key performance indicator change].
+
+
+### Hypothesis example
+
+We believe that creating an efficient communication system within TheLadders’ product experience for recruiters and employers will achieve a higher rate of contact success and an increase in product satisfaction. We will know this is true when we see an increase in the number of replies from job seekers to recruiter contacts and an increase in the number of messages initiated by recruiters in our system.
+
+
+### Sub-hypothesis template
+
+We believe that [doing this/ building this feature/ creating this experience] for [these people/ personas] will achieve [this outcome]. We will know this is true when we see [this market feedback, quantitative measure, or qualitative insight].
+
+The prioritized list of sub-hypotheses consitutes one of the most important results of the kickoff.
+
+
+### Personas
+
+ * Atavar or sketch, name, age, city, occupation, etc.
+ * Behavorial demographic information
+   * Marital status, Number of children, their ages, Working conditions, Leisure time, lifestyle, etc.
+ * Pain points and needs
+ * Potential solutions
+ 
+Create Proto-personas, research this in the field to validate and develop. To do this research we need to "get out of the building" ([Steve Blank](http://steveblank.com/2010/03/11/teaching-entrepreneurship-%E2%80%93-by-getting-out-of-the-building/)) to test the problem statement and associated assumptions. Why take advice from an entreupeneur coach?
+
+**Because every project is a start-up**!
+
+
+### Feature brainstorming
+
+Once we have personas with real problems that have been (ideally) researched and validated, we can brainstorm on features that will drive customer behavior towards the desired outcomes. We brainstorm and  create a list (stick them all up on the wall and then prioritize them).
+
+**Features will be the basis for themes** (focused sets of sprints or work in progress on the basis of plenty of time for designer creativity and cross-collaboration).
+
+
+### Collaborative Design and Prototype towards Initial MVP
+
+#### Why and what
+
+* Everybody gets to design together
+* Low fidelity sketches and artifacts increase collaboration
+* Methods such as group design studio build a shared understanding of features across the team
+
+#### Methods and techniques
+
+* Collective design studio
+* Style guides and pattern libraries
+* Special techniques for remote distributed teams
 
 
 ### Iteration Planning Meeting
+
+The classic meeting using everything we've gathered together so far to write user stories (together) and specify the iteration backlog.
+
+
+### User story template
+
+Influenced by [A framework for modern User Stories by @jonatisokon](https://medium.com/@jonatisokon/a-framework-for-user-stories-bc3dc323eca9).
+
+**Classic format**
+
+As a [persona, user] I want to [perform action] so that [achievable goal].
+
+**User validation test addendum**
+
+Given that I'm [performing action] ... 
+When [point of observation]
+Then [observable result]
+
+
+### User story example
+
+As a writer I want to save my story so that it can be critiqued.
+
+Given that I have saved my story
+When I tap the save icon to save my story
+Then saved to my stories and visible to fellow workshop members
 
 
 ### The goal of cross-collaboration
 
 By the time the user stories are written for the current backlog, the whole team has been "kicked off" on each of them. A [short excerpt](files/lavidaenlean.txt) from Gothelf shows what collective development is like as the team works to complete the backlog. 
+
+"This is the day-to-day rhythm of Lean UX: a team working collaboratively, iteratively, and in parallel, with few handoffs, minimal deliverables, and a focus on working software and market feedback."
 
 
 
@@ -291,3 +386,18 @@ By the time the user stories are written for the current backlog, the whole team
 * Development Workflow with Everything in Code
 * DevOps, Server Provisioning and Deployment
 * **User Validation**
+
+
+### Maximum 5 days until next User Validation
+
+![Gothelf Lean + Scrum](images/gothelf-lean-plus-scrum.jpg)
+
+
+### Levels of Validation
+
+* Unit tests and integration tests must be written by developer and run as part of automated frequent or continuous delivery
+* Problem statement(s) validated by getting out of the building!
+* Personas must be posited as proto-personas and validated and developed by... Getting out of the building
+* User stories are validated via built in acceptance test (Given, When, Then)
+* Hypotheses can only be run by testing users with the MVP
+  * That's what the MVP is for

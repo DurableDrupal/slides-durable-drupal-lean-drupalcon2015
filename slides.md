@@ -21,7 +21,9 @@ $ whoami
 </p>
 
 
+<p class="text-center">
 ![victorkane](images/VictorkaneDrupalOrg.png)
+</p>
 
 
 
@@ -41,7 +43,9 @@ That's a mighty phrase up there. If we understood it and knew how to get it done
 
 ### Process Overview: Waterfall -> Agile
 
+<p class="text-center">
 ![Waterfull and Agile](images/sy-waterfall-agile.png)
+</p>
 
 [From Desirée Sy's 2007 article Adapting Usability Investigations for Agile User-centered Design](http://uxpajournal.org/wp-content/uploads/pdf/agile-ucd.pdf)
 Note:
@@ -50,7 +54,9 @@ The article explains how Waterfall and even Agile leads to the creation of isola
 
 ### Better Process (2007)
 
+<p class="text-center">
 ![Staggered Sprints](images/sy-miller-staggered-sprints.jpg)
+</p>
 
 #### Cycle 0 + Staggered Sprints
 Note:
@@ -59,7 +65,9 @@ In the article Sy and Miller go on to describe in detail their idea of productiv
 
 ### Still better process: Design + Dev
 
+<p class="text-center">
 ![Gothelf Lean + Scrum](images/gothelf-lean-plus-scrum.jpg)
+</p>
 
 (From Gothelf, Jeff (2013-02-22). Lean UX: Applying Lean Principles to Improve User Experience, O'Reilly Media)
 
@@ -102,7 +110,9 @@ Background article: [How to Manage the "7 Wastes" of Agile Software Development]
 
 ### Kanban (not Scrum)
 
+<p class="text-center">
 ![WIP (Work in Progress) is what makes Kanban unique](images/c1_01.jpg)
+</p>
 
 WIP (Work in Progress) is what makes Kanban unique
 
@@ -112,7 +122,9 @@ The main thing to understand about Kanban is that it is not based on the pre-est
 
 ### Kanban (not Scrum)
 
+<p class="text-center">
 ![Kanban Board for initial prototype](images/c1_02.jpg)
+</p>
 
 Note:
 Then, when team members work on a job, it is placed in the "In Progress" or "Doing" column. This column is also limited in the number of issues it can contain. The reason for these constraints is key to why Kanban is different: it champions focus and prohibits people working on too many things at the same time. This is called a Work in Progress (WIP) limit, and it replaces the constraint of the sprint cycle length and time frame restrictions found in Scrum. In this way, Kanban frees us from waterfall-like mini-release "estimates". So while there are no sprints, only a continuous flow of jobs of work being delivered for outcome value testing, the WIP limit, seen in parenthesis in the To Do and In Progress column titles, seeks to optimize productivity without overload. The actual number is calculated by taking into account team size and velocity, and is adjusted for maximum productivity without overloading the team as the project matures. We limit the To Do column and the Doing column to 4 (number of separate disciplines being worked on with semi-paired programming).
@@ -164,9 +176,13 @@ The actual text is the responsibility of the Product Owner but will be done in c
 
 ### Initial Online Literary Workshop Vision
 
+<p class="text-center">
 [Vision Template](files/VisionTemplate.pdf)
+</p>
 
+<p class="text-center">
 [Online Literary Workshop Vision](files/OnlineLiteraryWorkshopVision.pdf)
+</p>
 
 Note:
 The Vision will represent a first processing of product inputs and provide a starting point at the Kickoff for beginning to understand and validate problem, product and market in terms of value.
@@ -226,7 +242,9 @@ In the absence of any legacy site, we will show how the email list is currently 
 
 ### Team Kickoff
 
+<p class="text-center">
 ![Gothelf Lean + Scrum](images/gothelf-lean-plus-scrum.jpg)
+</p>
 
 * Every sprint has a kickoff, not just the first
 * Everyone participates
@@ -350,7 +368,7 @@ Then saved to my stories and visible to fellow workshop members
 
 ### The goal of cross-collaboration
 
-By the time the user stories are written for the current backlog, the whole team has been "kicked off" on each of them. A [short excerpt](files/lavidaenlean.txt) from Gothelf shows what collective development is like as the team works to complete the backlog. 
+By the time the user stories are written for the current backlog, the whole team has been "kicked off" on each of them. A [short excerpt](files/lavidaenlean.html) from Gothelf shows what collective development is like as the team works to complete the backlog. 
 
 "This is the day-to-day rhythm of Lean UX: a team working collaboratively, iteratively, and in parallel, with few handoffs, minimal deliverables, and a focus on working software and market feedback."
 
@@ -377,6 +395,20 @@ By the time the user stories are written for the current backlog, the whole team
 * User Validation
 
 
+### Resources for Server Provisioning and Deployment
+
+In this short presentation we really wanted to emphasize the practical use of Lean, Lean UX and Lean DevOps. But here is a short list of the many available resources for the all important question of server provisioning and deployment automation for frequent and continuous build approaches. Without this, team paralysis, delays and workflow blowup will haunt us as the handoff monster rears its ugly default waterfall head.
+
+
+### Resources for Server Provisioning and Deployment
+* [Jeff Geerling's book Ansible for DevOps: Server Configuration Management for humans](https://leanpub.com/ansible-for-devops)
+  * [GitHub Repo for the book (very actively kept up-to-date)](https://github.com/geerlingguy/ansible-for-devops)
+  * [Jeff's Austin DrupalCon presentation DevOps for Humans - Ansible for Drupal Deployment Victory!](https://austin2014.drupal.org/session/devops-humans-ansible-drupal-deployment-victory.html)
+    * [Slides](http://www.slideshare.net/geerlingguy/devops-for-humans-ansible-for-drupal-deployment-victory)
+  
+* DigitalOcean tutorial [How To Create an Ansible Playbook To Automate Drupal Installation on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-create-an-ansible-playbook-to-automate-drupal-installation-on-ubuntu-14-04)
+
+
 
 ## User Validation
 
@@ -390,7 +422,9 @@ By the time the user stories are written for the current backlog, the whole team
 
 ### Maximum 5 days until next User Validation
 
+<p class="text-center">
 ![Gothelf Lean + Scrum](images/gothelf-lean-plus-scrum.jpg)
+</p>
 
 
 ### Levels of Validation

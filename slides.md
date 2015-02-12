@@ -368,7 +368,7 @@ Then saved to my stories and visible to fellow workshop members
 
 ### The goal of cross-collaboration
 
-By the time the user stories are written for the current backlog, the whole team has been "kicked off" on each of them. A [short excerpt](files/lavidaenlean.html) from Gothelf shows what collective development is like as the team works to complete the backlog. 
+By the time the user stories are written for the current backlog, the whole team has been "kicked off" on each of them. A [short excerpt](files/lavidaenlean.pdf) from Gothelf shows what collective development is like as the team works to complete the backlog. 
 
 "This is the day-to-day rhythm of Lean UX: a team working collaboratively, iteratively, and in parallel, with few handoffs, minimal deliverables, and a focus on working software and market feedback."
 

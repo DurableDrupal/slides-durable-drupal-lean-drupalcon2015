@@ -384,6 +384,20 @@ By the time the user stories are written for the current backlog, the whole team
 * User Validation
 
 
+### Everything in Code example
+
+The demo starts at minute 14:35 of the [video](#/6/1)
+
+* We change the default theme and change the Site Name
+* We create a feature
+* We specify elements to include
+* We create the feature and save it to the file system
+* We enable the feature, moving the configuration of the selected elements to code
+* We change the theme and the site name
+* We see the feature is overriden (database is overriding code because of the changes)
+* We "revert" the feature (force the database to adapt to the code)
+
+
 
 ## DevOps, Server Provisioning and Deployment
 

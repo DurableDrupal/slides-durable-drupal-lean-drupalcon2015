@@ -1,5 +1,9 @@
-# reveal.js repo (see below for docs and instructions for installing and using) for slides from DrupalCon Latin America 2015 presentation Setting up a Reusable and Durable Drupal Lean Process Factory https://latinamerica2015.drupal.org/session/setting-reusable-and-durable-drupal-lean-process-factory To view: 
+# reveal.js repo
+
+Slides from DrupalCon Latin America 2015 presentation Setting up a Reusable and Durable Drupal Lean Process Factory https://latinamerica2015.drupal.org/session/setting-reusable-and-durable-drupal-lean-process-factory To view: 
 http://awebfactory.com/drupalcon2015lean/#/
+
+See below for docs and instructions for installing and using. 
 
 I've made use of an external markdown file for the actual slides themselves, see the [slides.md](slides.md) file referenced from [index.html](index.html).
 

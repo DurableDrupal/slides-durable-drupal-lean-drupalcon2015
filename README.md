@@ -1,3 +1,10 @@
+# reveal.js repo (see below for docs and instructions for installing and using) for slides from DrupalCon Latin America 2015 presentation Setting up a Reusable and Durable Drupal Lean Process Factory https://latinamerica2015.drupal.org/session/setting-reusable-and-durable-drupal-lean-process-factory To view: 
+http://awebfactory.com/drupalcon2015lean/#/
+
+I've made use of an external markdown file for the actual slides themselves, see the [slides.md](slides.md) file referenced from [index.html](index.html).
+
+The grunt file is also edited so that when running locally grunt watches for changes in the external markdown file and changes are seen instantly in the preview browser running locally.
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).

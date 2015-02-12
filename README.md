@@ -7,7 +7,7 @@ See below for docs and instructions for installing and using.
 
 I've made use of an external markdown file for the actual slides themselves, see the [slides.md](slides.md) file referenced from [index.html](index.html).
 
-The grunt file is also edited so that when running locally grunt watches for changes in the external markdown file and changes are seen instantly in the preview browser running locally.
+[Gruntfile.js](Gruntfile.js) is also edited so that when running locally grunt watches for changes in the external markdown file and changes are seen instantly in the preview browser running locally.
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 

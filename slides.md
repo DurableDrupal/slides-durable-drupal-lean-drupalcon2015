@@ -208,15 +208,13 @@ The Product Owner ideally comes from the client's organization, is responsable f
 
 ### Resources for Team Provisioning
 
-* Ansible playbook for setting up DurableDrupalDistro locally with Vagrant and VirtualBox
+* Ansible playbook for setting up DurableDrupalDistro with Vagrant and VirtualBox locally or on server. [Video Demo](https://www.youtube.com/watch?v=ZVSGrID3g_s). 
   * On GitHub: [ansible-vagrant-durable-drupal-distro](https://github.com/DurableDrupal/ansible-vagrant-durable-drupal-distro)
   * On GitHub: [DurableDrupalDistro](https://github.com/DurableDrupal/durable-drupal-distro)
 * [Create a Drupal project on Pantheon and pull it down to your laptop on Kalabox](http://awebfactory.com/node/521)
-  * [Pantheon overview](https://pantheon.io/how-it-works)
-  * [Pantheon workflow overview](https://pantheon.io/docs/articles/sites/code/using-the-pantheon-workflow/)
+  * [Pantheon overview](https://pantheon.io/how-it-works) and [workflow overview](https://pantheon.io/docs/articles/sites/code/using-the-pantheon-workflow/)
 * [Setting up a local environment for a Drupal project on Platform.sh](https://docs.platform.sh/use-platform/getting-started-for-the-impatient/#how-to-set-up-your-local-drupal-development), click here for [more details](https://docs.platform.sh/use-platform/set-up-local-development/)
-  * [Platform.sh overview](https://docs.platform.sh/use-platform/getting-started-for-the-impatient/)
-  * [Platform.sh development workflow video](https://platform.sh/videos/2014/07/31/development-workflow/) additionally, [Environment workflow](https://docs.platform.sh/overview/platform-environments/)
+  * [Platform.sh overview](https://docs.platform.sh/use-platform/getting-started-for-the-impatient/) and [development workflow video](https://platform.sh/videos/2014/07/31/development-workflow/), additionally, [Environment workflow](https://docs.platform.sh/overview/platform-environments/)
   
 <!--
 * [Best = Free: Drupal Team Project Management tool based on latest Eclipse release](http://awebfactory.com/node/510)
@@ -386,7 +384,7 @@ By the time the user stories are written for the current backlog, the whole team
 
 ### Everything in Code example
 
-The demo starts at minute 14:35 of the [video](#/6/1)
+The demo starts at minute 14:35 of the [video](https://www.youtube.com/watch?v=ZVSGrID3g_s)
 
 * We change the default theme and change the Site Name
 * We create a feature
